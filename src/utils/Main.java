@@ -46,9 +46,8 @@ public class Main {
 
 		log("status", "Bot loaded and online.");
 
-		commands.put("randnsfw", new PingCommand());
 		commands.put("roll", new RollCommand());
-		commands.put("jesus", new HelixCommand());
+		commands.put("helix", new HelixCommand());
 		commands.put("emoteme", new EmoteCommand());
 	}
 
