@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Vlad/Desktop/DiscordBots/JDA-withDependencies-2.2.1_376.jar" sourcepath="C:/Users/Vlad/Desktop/DiscordBots/JDA-2.2.1_376-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vlad/Desktop/Programming/DiscordBots/JDA-withDependencies-2.2.1_376.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
