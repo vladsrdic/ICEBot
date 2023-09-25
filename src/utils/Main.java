@@ -34,7 +34,7 @@ public class Main {
 	public static void main(String[] args) {
 		try {
 			jda = new JDABuilder().addListener(new BotListener())
-					.setBotToken("MjE0OTYwMjc4NzIxMzk2NzM2.CunuMg.EWwkd50jAicOjDGzRif67YChW3U").buildBlocking();
+					.setBotToken("Please make me an ENV").buildBlocking();
 			jda.setAutoReconnect(true);
 		} catch (IllegalArgumentException e) {
 			System.out.println("The config was not populated. Please enter a bot token.");
