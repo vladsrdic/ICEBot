@@ -1,2 +1,2 @@
 # ICEBot
-Discord bot utilized in the PDC and ICE Discord channels. Currently Java, going to be switched over.
+Discord bot mostly for fun that does simple things like roll dice and act as an 8ball.
